@@ -1,3 +1,7 @@
+# Windows 10 64-bit
+# Python 3.9.7 
+# HW: USB UART Dongle CP2102
+
 import serial
 import threading
 
